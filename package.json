@@ -1,0 +1,25 @@
+{
+  "suluPackage": true,
+  "name": "sulu-application-settings",
+  "description": "[![NPM version][npm-image]][npm-url]\r [![SULU Package][sulu-package-image]][sulu-package-url]",
+  "version": "0.2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bump": "npm version patch && git push && git push --tags && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sulu-one/sulu-application-settings.git"
+  },
+  "keywords": [
+    "sulu",
+    "filemanager"
+  ],
+  "author": "s-a",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sulu-one/sulu-application-settings/issues"
+  },
+  "homepage": "https://github.com/sulu-one/sulu-application-settings#readme"
+}
