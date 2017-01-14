@@ -1,8 +1,13 @@
 {
   "suluPackage": true,
   "name": "sulu-application-settings",
+<<<<<<< HEAD
   "description": "[![NPM version][npm-image]][npm-url]\r [![SULU Package][sulu-package-image]][sulu-package-url]",
   "version": "1.0.1",
+=======
+  "description": "SULU Application Settings manager",
+  "version": "0.2.4",
+>>>>>>> 118592f409e7ec442bc46dccc14677c26c59ef15
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
