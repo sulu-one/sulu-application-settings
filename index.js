@@ -20,7 +20,6 @@ Command.prototype.settings = function settings() {
 
 var Plugin = function  (client) {
 	this.command = new Command();
-	client.app.registerHotKey("ctrl+f12", this.command.settings);
 };
 
 module.exports = Plugin;

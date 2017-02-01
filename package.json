@@ -1,5 +1,12 @@
 {
-  "suluPackage": true,
+  "suluPackage": {
+    "hotkeys" : [
+      {
+        "key" : "ctrl+f12" , 
+        "function" : "settings"
+      }
+    ]
+  }, 
   "name": "sulu-application-settings",
   "description": "SULU Application Settings manager",
   "version": "1.0.5",
