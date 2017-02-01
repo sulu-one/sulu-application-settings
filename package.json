@@ -1,15 +1,15 @@
 {
   "suluPackage": {
-    "hotkeys" : [
+    "hotkeys": [
       {
-        "key" : "ctrl+f12" , 
-        "function" : "settings"
+        "key": "ctrl+f12",
+        "function": "settings"
       }
     ]
-  }, 
+  },
   "name": "sulu-application-settings",
   "description": "SULU Application Settings manager",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
